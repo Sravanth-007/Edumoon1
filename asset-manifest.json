@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Edumoon1/static/css/main.02f9eddf.chunk.css",
-    "main.js": "/Edumoon1/static/js/main.5ba002d1.chunk.js",
-    "main.js.map": "/Edumoon1/static/js/main.5ba002d1.chunk.js.map",
+    "main.css": "/Edumoon1/static/css/main.6f724bb5.chunk.css",
+    "main.js": "/Edumoon1/static/js/main.0a002770.chunk.js",
+    "main.js.map": "/Edumoon1/static/js/main.0a002770.chunk.js.map",
     "runtime-main.js": "/Edumoon1/static/js/runtime-main.724f78e3.js",
     "runtime-main.js.map": "/Edumoon1/static/js/runtime-main.724f78e3.js.map",
     "static/js/2.0e5f515b.chunk.js": "/Edumoon1/static/js/2.0e5f515b.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.a4cf8111.chunk.js": "/Edumoon1/static/js/3.a4cf8111.chunk.js",
     "static/js/3.a4cf8111.chunk.js.map": "/Edumoon1/static/js/3.a4cf8111.chunk.js.map",
     "index.html": "/Edumoon1/index.html",
-    "static/css/main.02f9eddf.chunk.css.map": "/Edumoon1/static/css/main.02f9eddf.chunk.css.map",
+    "static/css/main.6f724bb5.chunk.css.map": "/Edumoon1/static/css/main.6f724bb5.chunk.css.map",
     "static/js/2.0e5f515b.chunk.js.LICENSE.txt": "/Edumoon1/static/js/2.0e5f515b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.724f78e3.js",
     "static/js/2.0e5f515b.chunk.js",
-    "static/css/main.02f9eddf.chunk.css",
-    "static/js/main.5ba002d1.chunk.js"
+    "static/css/main.6f724bb5.chunk.css",
+    "static/js/main.0a002770.chunk.js"
   ]
 }
